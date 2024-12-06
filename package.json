@@ -1,0 +1,16 @@
+{
+    "name": "telegram-bot",
+    "author": "ashurumaru",
+    "scripts": {
+        "dev": "vercel dev",
+        "build": "tsc",
+        "start": "vercel dev"
+    },
+    "dependencies": {
+        "grammy": "^1.17.1"
+    },
+    "devDependencies": {
+        "@types/node": "^22.10.1",
+        "typescript": "^5.7.2"
+    }
+}
